@@ -1,5 +1,21 @@
 # Changelog
 
+## [7.7.0](https://github.com/F3-Nation/f3-nation/compare/map@7.6.0...map@7.7.0) (2026-10-09)
+
+
+### Features
+
+* **scripts:** add PII obfuscation script for staging refresh (F3-65) ([#768](https://github.com/F3-Nation/f3-nation/issues/768)) ([870d24a](https://github.com/F3-Nation/f3-nation/commit/870d24a966afd089687eb6967a05f2be16d61226))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/api bumped to 0.12.1
+    * @acme/auth bumped to 0.2.9
+    * @acme/validators bumped to 0.4.6
+
 ## [7.6.0](https://github.com/F3-Nation/f3-nation/compare/map@7.5.0...map@7.6.0) (2026-10-06)
 
 

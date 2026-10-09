@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.0](https://github.com/F3-Nation/f3-nation/compare/pkg-db@0.8.0...pkg-db@0.9.0) (2026-10-09)
+
+
+### Features
+
+* **db:** drop hand-made event_instance_expanded and attendance_expanded views ([#1066](https://github.com/F3-Nation/f3-nation/issues/1066)) ([fd884ea](https://github.com/F3-Nation/f3-nation/commit/fd884ea1c9a5c5f8b8d73a3f02550b9e4eff3675))
+
 ## [0.8.0](https://github.com/F3-Nation/f3-nation/compare/pkg-db@0.7.0...pkg-db@0.8.0) (2026-10-06)
 
 
